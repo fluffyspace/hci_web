@@ -1,6 +1,5 @@
-# hci
-
-This template should help get you started developing with Vue 3 in Vite.
+# Web app for easy creation of JSON file for MeasureUserActions
+Android app repository: [https://github.com/fluffyspace/MeasureUserActions](https://github.com/fluffyspace/MeasureUserActions)
 
 ## Recommended IDE Setup
 
